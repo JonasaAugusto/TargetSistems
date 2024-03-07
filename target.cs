@@ -25,8 +25,6 @@ public class Test
 
 public class Program
 {
-    // Outros membros da classe
-
     public void Run()
     {
         bool Raiz(int n)
@@ -57,10 +55,9 @@ public class Program
                 }
             }
         }
-
     }
 }
-
+//obs: coloquei um imput para inserir o numero e verificar se é ou não da sequencia.
 
 
 //ATIVIDADE 3
